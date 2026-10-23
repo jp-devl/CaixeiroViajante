@@ -9,7 +9,7 @@ O objetivo deste projeto é encontrar ou aproximar a rota de menor custo que vis
 
 Para a resolução, foi implementado um **Algoritmo Genético (AG)** adaptado para permutações, utilizando técnicas de evolução artificial.
 
-## 🇧🇷 Instância Utilizada
+## Instância Utilizada
 
 * **Arquivo:** `brazil58.tsp` (Dados oficiais da TSPLIB)
 * **Descrição:** Coordenadas de **58 cidades no Brasil**
