@@ -1,7 +1,3 @@
-# 🗺️ Resolução do Caixeiro Viajante com Algoritmo Genético
-
-Trabalho prático desenvolvido para a disciplina de **Inteligência Artificial** no curso de Tecnólogo em Análise e Desenvolvimento de Sistemas da **Faculdade Serra do Carmo**.
-
 <p align="center">
   <img src="banner.jpg" alt="Resolução do Caixeiro Viajante" width="100%">
 </p>
