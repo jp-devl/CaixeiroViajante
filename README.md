@@ -3,10 +3,9 @@
 Trabalho prático desenvolvido para a disciplina de **Inteligência Artificial** no curso de Tecnólogo em Análise e Desenvolvimento de Sistemas da **Faculdade Serra do Carmo**.
 
 <p align="center">
-  <!-- Substitua o link abaixo pela imagem real se você tiver um banner do seu projeto -->
-  <img src="https://shields.io" alt="Python Version">
-  <img src="https://shields.io" alt="tsplib95">
+  <img src="banner.jpg" alt="Resolução do Caixeiro Viajante" width="100%">
 </p>
+
 
 ## 📌 Sobre o Projeto
 
